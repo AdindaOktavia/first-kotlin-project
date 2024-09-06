@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdc5d744-2a07-41d6-a17f-4eef2cc139bd" name="Changes" comment="Add TD_BilanganBulat.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TD_Decimal.kt" afterDir="false" />
+    <list default="true" id="bdc5d744-2a07-41d6-a17f-4eef2cc139bd" name="Changes" comment="Add KonversiEksplisit.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Character.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,37 +39,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.TD_DecimalKt">
-    <configuration name="TD_BilanganBulatKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TD_BilanganBulatKt" />
+  <component name="RunManager" selected="Kotlin.CharacterKt">
+    <configuration name="CharacterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharacterKt" />
       <module name="FirstKotlinProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TD_DecimalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TD_DecimalKt" />
+    <configuration name="ConstantsLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConstantsLiteralKt" />
       <module name="FirstKotlinProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariabelKt" />
+    <configuration name="KonversiEksplisitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KonversiEksplisitKt" />
       <module name="FirstKotlinProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarvsValKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VarvsValKt" />
+    <configuration name="RepresentasiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RepresentasiKt" />
       <module name="FirstKotlinProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhitespacesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhitespacesKt" />
+    <configuration name="UnderscoreDalamLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnderscoreDalamLiteralKt" />
       <module name="FirstKotlinProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.TD_DecimalKt" />
-        <item itemvalue="Kotlin.TD_BilanganBulatKt" />
-        <item itemvalue="Kotlin.VarvsValKt" />
-        <item itemvalue="Kotlin.VariabelKt" />
-        <item itemvalue="Kotlin.WhitespacesKt" />
+        <item itemvalue="Kotlin.CharacterKt" />
+        <item itemvalue="Kotlin.KonversiEksplisitKt" />
+        <item itemvalue="Kotlin.RepresentasiKt" />
+        <item itemvalue="Kotlin.UnderscoreDalamLiteralKt" />
+        <item itemvalue="Kotlin.ConstantsLiteralKt" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +150,42 @@
       <option name="project" value="LOCAL" />
       <updated>1725636928103</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add TD_Decimal.kt">
+      <created>1725637550096</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725637550096</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add ConstantsLiteral.kt">
+      <created>1725638471315</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725638471315</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add UnderscoreDalamLiteral.kt">
+      <created>1725647766427</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725647766427</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add Representasi.kt">
+      <created>1725649290740</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725649290741</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add KonversiEksplisit.kt">
+      <created>1725650265217</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725650265218</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -161,6 +196,11 @@
     <MESSAGE value="Add Variabel.kt" />
     <MESSAGE value="Add VarvsVal.kt" />
     <MESSAGE value="Add TD_BilanganBulat.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add TD_BilanganBulat.kt" />
+    <MESSAGE value="Add TD_Decimal.kt" />
+    <MESSAGE value="Add ConstantsLiteral.kt" />
+    <MESSAGE value="Add UnderscoreDalamLiteral.kt" />
+    <MESSAGE value="Add Representasi.kt" />
+    <MESSAGE value="Add KonversiEksplisit.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add KonversiEksplisit.kt" />
   </component>
 </project>
