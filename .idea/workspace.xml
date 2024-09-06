@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdc5d744-2a07-41d6-a17f-4eef2cc139bd" name="Changes" comment="Add Boolean.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/StringArrayOfCharacter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="bdc5d744-2a07-41d6-a17f-4eef2cc139bd" name="Changes" comment="Add StringArrayOfCharacter.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/RawString.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725652732941</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Add StringArrayOfCharacter.kt">
+      <created>1725654358038</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1725654358039</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -225,6 +231,7 @@
     <MESSAGE value="Add Character.kt" />
     <MESSAGE value="Add KonversiEksplisitPadaChar.kt" />
     <MESSAGE value="Add Boolean.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Boolean.kt" />
+    <MESSAGE value="Add StringArrayOfCharacter.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add StringArrayOfCharacter.kt" />
   </component>
 </project>
