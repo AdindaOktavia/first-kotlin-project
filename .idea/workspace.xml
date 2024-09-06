@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdc5d744-2a07-41d6-a17f-4eef2cc139bd" name="Changes" comment="Add Character.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KonversiEksplisitPadaChar.kt" afterDir="false" />
+    <list default="true" id="bdc5d744-2a07-41d6-a17f-4eef2cc139bd" name="Changes" comment="Add KonversiEksplisitPadaChar.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Boolean.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.KonversiEksplisitPadaCharKt">
+  <component name="RunManager" selected="Kotlin.BooleanKt">
+    <configuration name="BooleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BooleanKt" />
+      <module name="FirstKotlinProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CharacterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CharacterKt" />
       <module name="FirstKotlinProject" />
@@ -68,20 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnderscoreDalamLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UnderscoreDalamLiteralKt" />
-      <module name="FirstKotlinProject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BooleanKt" />
         <item itemvalue="Kotlin.KonversiEksplisitPadaCharKt" />
         <item itemvalue="Kotlin.CharacterKt" />
         <item itemvalue="Kotlin.KonversiEksplisitKt" />
         <item itemvalue="Kotlin.RepresentasiKt" />
-        <item itemvalue="Kotlin.UnderscoreDalamLiteralKt" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725650836121</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add KonversiEksplisitPadaChar.kt">
+      <created>1725651675857</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725651675858</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -209,6 +216,7 @@
     <MESSAGE value="Add Representasi.kt" />
     <MESSAGE value="Add KonversiEksplisit.kt" />
     <MESSAGE value="Add Character.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Character.kt" />
+    <MESSAGE value="Add KonversiEksplisitPadaChar.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add KonversiEksplisitPadaChar.kt" />
   </component>
 </project>
