@@ -15,7 +15,4 @@ fun main(args: Array<String>) {
     println("minInt: " +minInt)
     println("minLong:" +minLong)
     println("maxLong:" +maxLong)
-
-
-
 }
